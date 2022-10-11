@@ -1,0 +1,25 @@
+.footer{
+    position: fixed;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: blue;
+    background-color: rgb(0, 255, 85);
+}
+.colom{
+    display: inline;
+    padding: 10px;
+}
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10pX;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+}
+body{
+    background: rgb(51, 176, 29);
+}
